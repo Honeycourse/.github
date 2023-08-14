@@ -1,9 +1,26 @@
-## 팀 ??? 👋
-**소개 페이지:**
+## 👋 우리잘했조
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+<table>
+  <tr height="150px">
+  <td align="center">
+    <a href="https://github.com/timingsniper"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/17792896?v=4"/></a>
+    <br />
+    <a href="https://github.com/timingsniper">장준우 💡🎨💻</a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/1524101973"><img height="150px" width="150px" src=""/></a>
+    <br />
+    <a href="https://github.com/1524101973">배호진 💻</a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/hyewon02"><img height="150px" width="150px" src=""/></a>
+    <br />
+    <a href="https://github.com/hyewon02">김혜원 💻</a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/pagh2322"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/73037262?v=4"/></a>
+    <br />
+    <a href="https://github.com/pagh2322">박건호 🍏</a>
+  </td>
+  </tr>
+</table>
