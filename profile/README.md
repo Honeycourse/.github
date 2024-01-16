@@ -22,10 +22,12 @@
     <br />
     <a href="https://github.com/pagh2322">박건호 🍏</a>
   </td>
-  <td align="center">
+  </tr>
+  <tr height="150px">
+    <td align="center">
     <a href="https://github.com/sanwooo"><img height="150px" width="150px" src="https://avatars.githubusercontent.com/u/79380206?v=4"/></a>
     <br />
     <a href="https://github.com/pagh2322">이산우 </a>
-  </td>
+    </td>
   </tr>
 </table>
